@@ -135,4 +135,4 @@ function writeHikes() {
     });
 }
 
-// writeHikes();         //if you used method 1
+// writeHikes();         //if you used method 
